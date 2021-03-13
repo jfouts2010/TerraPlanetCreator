@@ -28,3 +28,4 @@ Other important script is the continent generator ZoomLandCreation.cs, which use
 - Desert "Band" doesnt look natural, I think the climate zones look good but they could be improved to use more precipitation data.
 - Precipitation stats are kinda guessed :)
 - Im not happy with mountains, but resolution is so low hard to mess around with it too much.
+- No rivers :(
