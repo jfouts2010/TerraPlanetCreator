@@ -15,15 +15,16 @@ Other important script is the continent generator ZoomLandCreation.cs, which use
 # Ocean Currents
 ![alt text](Unity_MDEfkhInU1.png)
 
-#Precipitation
+# Precipitation
 ![alt text](Unity_KiQY6NFbrj.png)
 
-#Climate
+# Climate
 ![alt text](Unity_r082Fb3f20.png)
 
-#Future Improvements
+# Future Improvements
 - Tectonic plates sometimes create perfectly horizontal/verticle walls that look unnatural, likely need to spread them out a certain distance.
 - Continents are acceptable, but often times dont end up unique like our own planet earth does, usually very round looking continents.
 - Ocean currents could be improved for small indintations that will get both cold and warm currents on either side. Similar situation with lakes.
 - Desert "Band" doesnt look natural, I think the climate zones look good but they could be improved to use more precipitation data.
 - Precipitation stats are kinda guessed :)
+- Im not happy with mountains, but resolution is so low hard to mess around with it too much.
